@@ -2,13 +2,10 @@ Autoremote.py
 
 Simple Python tool to use autoremote to send data to a phone running tasker.
 
-Credits:
-	Original autoremote.py author:  sriramsv/Autoremote-python at https://github.com/sriramsv/Autoremote-python
-	Autoremote plugin for Tasker: Joao dias
 
 Install:
 
-sudo pip -install git+https://github.com/ddyeakley/autoremote.git
+sudo pip -install git+https://github.com/sriramsv/autoremote.git
 
 General API usage:
 
